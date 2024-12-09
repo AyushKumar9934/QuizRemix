@@ -12,5 +12,8 @@
   "dependencies": {
     "create-remix": "^2.15.0",
     "fs-extra": "^11.2.0"
+  },
+  "devDependencies": {
+    "@remix-run/dev": "^2.15.0"
   }
 }
